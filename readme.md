@@ -10,7 +10,7 @@ A comprehensive machine learning system for predicting hospital readmissions wit
 
 Hospital readmissions represent a significant challenge in healthcare, with high costs for both healthcare systems and patients. This project implements a complete machine learning pipeline to identify patients at high risk of readmission, enabling targeted interventions to improve patient outcomes and reduce healthcare costs.
 
-![Model Workflow](docs/images/model_workflow.png)
+![Model Workflow]("C:\Users\chitr\Downloads\Hospital-Readmission-Prediction\Image.webp")
 
 ## Key Features
 
