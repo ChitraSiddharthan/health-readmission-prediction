@@ -174,6 +174,6 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-Your Name - your.email@example.com
+Chitra Siddharthan - chitrasiddharthan05@gmail.com
 
-Project Link: [https://github.com/yourusername/hospital-readmission-prediction](https://github.com/yourusername/hospital-readmission-prediction)
+Project Link: [https://github.com/yourusername/hospital-readmission-prediction](https://github.com/ChitraSiddharthan/hospital-readmission-prediction)
