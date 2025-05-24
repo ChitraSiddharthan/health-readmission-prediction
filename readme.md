@@ -176,4 +176,4 @@ If you use this code in your research, please cite:
 
 Chitra Siddharthan - chitrasiddharthan05@gmail.com
 
-Project Link: [https://github.com/ChitraSiddharthan/hospital-readmission-prediction](https://github.com/ChitraSiddharthan/hospital-readmission-prediction)
+Project Link: [https://github.com/ChitraSiddharthan/hospital-readmission-prediction](https://github.com/ChitraSiddharthan/health-readmission-prediction)
